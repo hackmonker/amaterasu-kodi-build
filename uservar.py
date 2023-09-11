@@ -17,7 +17,7 @@ ADDONTITLE = '[COLOR crimson][B]Amaterasu[/B][/COLOR]Wizard'
 BUILDERNAME = 'Amaterasu'
 EXCLUDES = [ADDON_ID, 'repository.amaterasuwizard']
 # Text File with build info in it. Please read https://github.com/a4k-openproject/plugin.program.openwizard/wiki/Installing-Builds
-BUILDFILE = 'https://raw.githubusercontent.com/hackmonker/amaterasuwizard/master/builds.txt'
+BUILDFILE = 'https://raw.githubusercontent.com/hackmonker/amaterasu-wizard/main/builds.txt'
 # How often you would like it to check for build updates in days
 # 0 being every startup of kodi
 UPDATECHECK = 0
