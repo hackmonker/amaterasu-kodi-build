@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<addon id="plugin.program.amaterasu" name="[COLOR crimson]Amaterasu[/COLOR]Wizard" version="2.1.1" provider-name="hackmonker">
+<addon id="plugin.program.loki" name="[COLOR gold]Loki[/COLOR]Wizard" version="2.1.1" provider-name="hackmonker">
     <requires>
         <import addon="xbmc.python" version="3.0.0" />
         <import addon="script.module.requests" />
@@ -15,11 +15,11 @@
     <extension point="xbmc.service" library="startup.py" start="startup" />
     
     <extension point="xbmc.addon.metadata">
-        <summary lang="en">[COLOR crimson]Amaterasu[/COLOR]Wizard</summary>
-        <description lang="en">[COLOR crimson]Amaterasu[/COLOR]Wizard offers many maintenance features, selective add-on data saving, and automated build installs.</description>
+        <summary lang="en">[COLOR gold]Loki[/COLOR]Wizard</summary>
+        <description lang="en">[COLOR gold]Loki[/COLOR]Wizard offers many maintenance features, selective add-on data saving, and automated build installs.</description>
         <platform>all</platform>
         <reuselanguageinvoker>false</reuselanguageinvoker>
-        <source>https://github.com/hackmonker/plugin.program.amaterasu/</source>
+        <source>https://github.com/hackmonker/plugin.program.loki/</source>
         <news>
 2.1.0
  - Add support for Kodi v21 (Omega)
@@ -150,3 +150,4 @@
         </assets>
     </extension>
 </addon>
+<!-- -->
