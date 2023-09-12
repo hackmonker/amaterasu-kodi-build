@@ -7,7 +7,7 @@ OpenWizard was created to help the Kodi community out and help get rid of the br
 
 For more information on how to edit/customize this wizard for your own usage, please read [the wiki](https://github.com/drinfernoo/plugin.program.ragnarok/wiki).
 
-Currently, this version of the wizard supports:
+Currently, this version of the wizard support:
 
 |  Add-on                            | Cache Clearing | Trakt | All-Debrid | Real-Debrid | Premiumize | Trakt API | TMDb | TVDB | OMDb | IMDb | Fanart.tv | Location | Username/Password/Login |
 |------------------------------------|:--------------:|:-----:|:----------:|:-----------:|:----------:|:---------:|:----:|:----:|:----:|:----:|:---------:|:--------:|:-----------------------:|
