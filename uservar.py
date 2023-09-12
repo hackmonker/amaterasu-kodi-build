@@ -15,7 +15,7 @@ ART = os.path.join(PATH, 'resources', 'media')
 #########################################################
 ADDONTITLE = '[COLOR gold][B]Loki[/B][/COLOR]Wizard'
 BUILDERNAME = 'Loki'
-EXCLUDES = [ADDON_ID]
+EXCLUDES = [ADDON_ID, 'repository.lokiwizard']
 # Text File with build info in it. Please read https://github.com/a4k-openproject/plugin.program.openwizard/wiki/Installing-Builds
 BUILDFILE = 'https://raw.githubusercontent.com/hackmonker/loki-wizard/main/builds.txt'
 # How often you would like it to check for build updates in days
