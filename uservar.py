@@ -101,7 +101,7 @@ REPOID = 'repository.lokiwizard'
 # Url to Addons.xml file in your repo folder(this is so we can get the latest version)
 REPOADDONXML = 'https://raw.githubusercontent.com/hackmonker/repository.lokiwizard/master/repo/zips/addons.xml'
 # Url to folder zip is located in
-REPOZIPURL = 'https://github.com/hackmonker/repository.lokiwizard/tree/master/repo/zips/repository.lokiwizard'
+REPOZIPURL = 'https://github.com/hackmonker/repository.lokiwizard/tree/master/repo/zips/repository.lokiwizard/'
 #########################################################
 
 #########################################################
